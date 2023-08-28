@@ -17,13 +17,46 @@ This is a simple personal assistant for Linux, MacOS and Windows which works on 
 
 ## Installation
 
-Install virtual_assistant using bash
+### Install virtual_assistant using powershell
 
-```bash
+```
   git clone https://github.com/aadishh/virtual_assistant.git
 ```
     
+### There are Some libraries to install as well
+  * pyttsx3
+    ```
+     pip install pyttsx3
+    ```
+  * Speech Recognisation
+    ```
+     pip install SpeechRecognition
+    ```
+  * datetime
+    ```
+     pip install DateTime
+    ```
+  * wikipedia
+    ```
+     pip install wikipedia
+    ```
 
+  * webbrowser 
+    ```
+      pip install webbrowser
+    ```
+  * smtplib
+    ```
+      pip install secure-smtplib
+    ```
+  * random
+    ```
+     pip install random2
+    ```
+  * pyaudio  
+    ```
+     pip install pyaudio
+    ```
 ## Deployment
 
 To deploy this project run
